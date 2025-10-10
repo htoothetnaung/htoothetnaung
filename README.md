@@ -1,4 +1,4 @@
-# Crafting Perception & Intelligence with Code.
+### Crafting Perception & Intelligence with Code.
 
 
 ## 🏆 Accomplishments & Recognition
