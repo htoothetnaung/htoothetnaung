@@ -1,23 +1,7 @@
 # Crafting Perception & Intelligence with Code.
 
-## 🚀 About Me
-
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.
-gif" width="100"/>
-
-Hi, I'm **Htoo Thet Naung**! 👋 A computer science student from Myanmar, driven
-to push the boundaries of what's possible with technology.
-
-As an **AI Engineer Intern**, I'm immersed in the world of **Computer Vision**
-and **Deep Learning**. My side quests involve mastering ML pipeline optimization,
-fine-tuning LLMs, and exploring the fascinating realm of Reinforcement Learning.
 
 ## 🏆 Accomplishments & Recognition
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif"
-width="50"/>
-</div>
 
 ### 🥇 **Winner | Code2Career Hackathon 2024**
 
