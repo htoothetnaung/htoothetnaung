@@ -11,14 +11,5 @@
 
 *Hosted by Asia-Pacific Telecommunity, MCF & MCPA*
 
-## My Socials!
 
-<div align="center">
-  <a href="https://linkedin.com/in/htoothetnaung" target="_blank">
-  </a>
-  <a href="https://twitter.com/htoothetnaung" target="_blank">
-  </a>
-  <a href="https://github.com/htoothetnaung" target="_blank">
-  </a>
-</div>
 
